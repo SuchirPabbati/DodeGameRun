@@ -153,7 +153,7 @@ public class Activity21 extends AppCompatActivity {
                     paint.setStyle(Paint.Style.FILL);
                     canvas.drawPaint(paint);
                     paint.setColor(Color.BLUE);
-                    paint.setTextSize(60);
+                    paint.setTextSize(30);
                     canvas.drawRGB(0, 0, 0);
                     canvas.drawBitmap(scaledBitmap,0,back1y,null);
                     canvas.drawBitmap(scaledBitmap,0,back2y+10,null);
